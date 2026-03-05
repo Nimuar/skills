@@ -1,0 +1,19 @@
+{
+    "skill_name": "spec-driven-design",
+    "evals": [
+        {
+            "id": 0,
+            "name": "new-project-init",
+            "prompt": "I want to start a new project: a task management CLI tool written in Go that uses SQLite for storage. Let's follow the Spec-Driven Design process.",
+            "expected_output": "The assistant should initialize the .spec/ directory and create the CONSTITUTION.md based on the project requirements and the Nine Articles of Development.",
+            "files": []
+        },
+        {
+            "id": 1,
+            "name": "feature-addition",
+            "prompt": "I have an existing React app. I want to add a feature for 'User Profile Photos' using AWS S3 for storage. Please start the SDD process for this feature.",
+            "expected_output": "The assistant should guide the user through the Specification phase (SPECIFICATION.md) for the new feature, focusing on the User Journeys and Functional Requirements without jumping into implementation.",
+            "files": []
+        }
+    ]
+}
