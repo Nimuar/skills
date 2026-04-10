@@ -1,0 +1,17 @@
+{
+    "skill_name": "github-actions-creator",
+    "evals": [
+        {
+            "id": 0,
+            "prompt": "Create a TypeScript GitHub Action called 'hello-ts' that takes an input 'name' and prints it to the console.",
+            "expected_output": "A TypeScript action project with action.yml, src/main.ts, and package.json configured correctly.",
+            "files": []
+        },
+        {
+            "id": 1,
+            "prompt": "Create a simple Composite GitHub Action called 'echo-shell' that greets the user using a bash shell.",
+            "expected_output": "A composite action project with action.yml using 'runs: using: composite'.",
+            "files": []
+        }
+    ]
+}

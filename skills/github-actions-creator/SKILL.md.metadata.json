@@ -1,0 +1,5 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_OTHER",
+  "summary":  "The core instructions for the GitHub Actions Creator skill. Defines how to scaffold TypeScript and Composite actions.",
+  "updatedAt":  "2026-03-05T04:39:12.654910800Z"
+}
